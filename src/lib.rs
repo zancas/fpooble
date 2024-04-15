@@ -6,7 +6,6 @@ mod tests {
 
     #[test]
     fn it_works() {
-        let fp = ;
-        assert_eq!(result, 4);
+        let _fp = FPooble {};
     }
 }
